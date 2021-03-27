@@ -12,7 +12,7 @@ ___
 Professional Experience :
 ----------
 
-April 2021-Now
+April 2021-Current
 :   **R&D Data Scientist Intern**; Atos (France)
 
     Implementation of a scaled embedding solution based on graph learning allowing
