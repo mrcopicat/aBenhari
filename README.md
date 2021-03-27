@@ -15,7 +15,8 @@ Professional Experience :
 April 2021-Now
 :   **R&D Data Scientist Intern**; Atos (France)
 
-    *Implementation of a scaled embedding solution based on graph learning allowing a joint representation of heterogeneous temporal data for further ML&DL use.* 
+    Implementation of a scaled embedding solution based on graph learning allowing
+    a joint representation of heterogeneous temporal data for further ML&DL use.
 
 March 2020-September 2020
 :   **Artificial Intelligence Consultant Intern**; Accenture (Morocco)
@@ -42,23 +43,24 @@ Education :
 October 2020- October 2021 (expected)
 :   **Specialized Master, HPC-AI**; Mines Paristech (France)
 
-    *High Performance computing and Artificial intelligence post Master*
+    High Performance computing and Artificial intelligence post Master.
 
 September 2017-September 2020
 :   **Engineer Diploma, Data science & Digitalization**; Ecole Centrale Casablanca (Morocco)
 
-    *3rd year : Data science and Digitalization specialisation*
-    *1st & 2nd year : General engineering courses*
+    - 3rd year : Data science and Digitalization specialisation.
+    - 1st & 2nd year : General engineering courses.
 
 January 2019-June 2019
 :   **Exchange, Track Entrepreneur**; ESSEC Business School (Morocco)
 
-    *Business and Operations in Africa track with a focus on entrepreneurship and business practices.*
+    Business and Operations in Africa track with a focus on entrepreneurship
+    and business practices.
 
 September 2015-July 2017
 :   **CPGE, Mathematics & Physics (MP)**; CPGE Moulay Youssef (Morocco)
 
-    *Preparatory Classes for engineering schools, branch : Mathematics & physics (MP).*
+    Preparatory Classes for engineering schools, branch : Mathematics & physics (MP).
 
 ___
  Skills :
