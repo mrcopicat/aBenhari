@@ -1,4 +1,4 @@
-# BENHARI Abdessalam
+# 👋 BENHARI Abdessalam
 ### MS student @ Mines Paristech & General engineer 
 ___
 -------------------     ----------------------------
@@ -81,7 +81,7 @@ ___
 
 :   Basic knowledge of **JavaScript** & **VBA**
 
-> Languages :
+> Spoken languages :
 
      * Arabic : Native Speaker.
      * French : Bilingual.
