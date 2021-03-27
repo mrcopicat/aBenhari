@@ -68,7 +68,7 @@ ___
 
 > Programming Languages :
 
-:   **Python :** (Pandas, scikit-learn, Tensorflow/Keras, PyQt5, vtk, bokeh, ...) 
+    * **Python :** (Pandas, scikit-learn, Tensorflow/Keras, PyQt5, vtk, bokeh, ...) 
 
 :   **R-Language:** (Shiny, tidyverse, leaflet, ggplot2, …)
 
