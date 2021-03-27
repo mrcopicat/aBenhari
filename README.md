@@ -97,5 +97,5 @@ ___
 ___
 Recent Projects :
 ----------------------------------------
-(Please check my <a href="https://github.com/benhari1997"> Github </a> repositor)
+(Please check my <a href="https://github.com/benhari1997"> Github </a> repository)
      
