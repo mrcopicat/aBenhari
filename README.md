@@ -66,11 +66,16 @@ ___
 
 > Programming Languages :
 
-:   **Python :** Machine/Deep Learning (Pandas, scikit-learn, Tensorflow/Keras, ...), Data Vizualisation (PyQt5, vtk, bokeh, seaborn, ...), ... 
+:   **Python :** (Pandas, scikit-learn, Tensorflow/Keras, PyQt5, vtk, bokeh, ...) 
 
 :   **R-Language:** (Shiny, tidyverse, leaflet, ggplot2, …)
 
+:   **SQL:** (Managing databases, writing queries, …)
+
 :   **C/C++:** (OOP, CMake, Google Test, pthreads, OpenMP, TBB, …)
+
+:   **Pack Microsoft Office:** (Excel, Powerpoint, Word,…)
+
 
 :   Basic knowledge of **JavaScript** & **VBA**
 
