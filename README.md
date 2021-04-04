@@ -3,7 +3,7 @@
 ___
 -------------------     ----------------------------
 
-- 📧 e-mail : _abdessalam.benhari@mines-paristech.fr_
+- 📧 e-mail : _abdessalam.benhari@mines-paristech.fr_, _abdessalam.benhari@atos.net_ 
 - 📞 Phone : _+33 7 68 65 97 92_
 - 💻 Social : <a href="https://www.linkedin.com/in/abdessalam-benhari">Linkedin</a>, <a href="https://github.com/benhari1997">Github</a>
 - 📍 Grenoble - France
