@@ -5,7 +5,7 @@ ___
 
 - 📧 e-mail : _abdessalam.benhari@mines-paristech.fr_, _abdessalam.benhari@atos.net_ 
 - 📞 Phone : _+33 7 68 65 97 92_
-- 💻 Social : <a href="https://www.linkedin.com/in/abdessalam-benhari">Linkedin</a>, <a href="https://github.com/benhari1997">Github</a>
+- 💻 Social : <a href="https://www.linkedin.com/in/abdessalam-benhari">Linkedin</a>, <a href="https://github.com/aBenhari">Github</a>
 - 📍 Grenoble - France
 
 -------------------     ----------------------------
@@ -68,7 +68,7 @@ ___
 
 > Programming Languages :
 
-    - Python: (Pandas, scikit-learn, Tensorflow/Keras, PyQt5, vtk, bokeh, ...) 
+    - Python: (nox, poetry, Pandas, scikit-learn, Tensorflow/Keras, PyQt5, vtk, bokeh, ...) 
 
     - R-Language: (Shiny, tidyverse, leaflet, ggplot2, …)
 
@@ -80,21 +80,23 @@ ___
 
     - Basic knowledge of JavaScript & VBA
 
+> Technlogies :
+
+     * Machine/Deep Learning.
+     * Parallel Programming – HPC (on GPU: Numba-Cuda, On CPU: MPI-OpenMP). 
+     * GIT/GITLab.
+     * Continuous integration (Gitlab, Jenkins).
+     * Unit tetsing (on Python: unittest-pytest, on C++: google tests).
+     * Data visualization.
+     * UNIX/Linux environment.
+
 > Spoken languages :
 
      - Arabic : Native Speaker.
      - French : Bilingual.
      - English : Professional proficiency TOEIC = 955.
-
-> Other :
-
-     * Machine/Deep Learning.
-     * Parallel Programming – HPC (Numba-Cuda, MPI-OpenMP). 
-     * GIT/GITLab – Continuous integration.
-     * Data visualization.
-     * Linux environment.
 ___
 Recent Projects :
 ----------------------------------------
-(Please check my <a href="https://github.com/benhari1997"> Github </a> repository)
+(Please check my <a href="https://github.com/aBenhari"> Github </a> repository)
      
