@@ -1,5 +1,5 @@
 # 👋 BENHARI Abdessalam
-### MS student @ Mines Paristech & General engineer 
+### R&D Data Scientist Intern @ Atos | MS student @ Mines Paristech & General engineer 
 ___
 -------------------     ----------------------------
 
