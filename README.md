@@ -1,9 +1,9 @@
 # 👋 BENHARI Abdessalam
-### R&D Data Scientist Intern @ Atos | MS student @ Mines Paristech & General engineer 
+### PhD candidate in HPC & reinforcement learning @ Atos | General engineer 
 ___
 -------------------     ----------------------------
 
-- 📧 e-mail : _abdessalam.benhari@mines-paristech.fr_, _abdessalam.benhari@atos.net_ 
+- 📧 e-mail : _abdessalam.benhari@gmail.com_, _abdessalam.benhari@atos.net_ 
 - 📞 Phone : _+33 7 68 65 97 92_
 - 💻 Social : <a href="https://www.linkedin.com/in/abdessalam-benhari">Linkedin</a>, <a href="https://github.com/aBenhari">Github</a>
 - 📍 Grenoble - France
